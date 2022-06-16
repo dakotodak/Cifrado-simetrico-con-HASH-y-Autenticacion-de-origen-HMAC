@@ -1,4 +1,4 @@
-# Encriptado-Simetrico-y-HMAC
+Cifrado simétrico con HASH y Autenticación de origen HMAC
 Este código simula el funcionamiento del cifrado simétrico en mensajes que son enviados a traves de la redes de telecomunicaciones.
 Los algoritmos de cifrado utilizados en este código son SHA256 y SHA512. Ademas, se realiza un código de autenticación de origen HMAC permitiendo una mayor integridad en los datos. 
 
